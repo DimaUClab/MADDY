@@ -2,7 +2,7 @@
 
 Multiclass Classification Analysis and Quality Testing of MADDY (Microtubule Assembly and Disassembly Dynamics model) Output
 
-Published by: Maria Kelly - Dima Group @ University of Cincinnati
+Published by: Maria S. Kelly - Dima Group @ University of Cincinnati
 
 Details of applied analysis can be found in original publication: https://doi.org/10.1016/j.csbj.2022.01.028
 

@@ -6,7 +6,8 @@ Published by: Maria Kelly - Dima Group @ University of Cincinnati
 
 Details of applied analysis can be found in original publication: https://doi.org/10.1016/j.csbj.2022.01.028
 
-Overview: This script will give a multiclass classification of a given dataset by applying cross validation to several classification and ensemble algorithms in order to compare the predicition accuracy and standard deviation of each algorithm.  The SMOTE oversampling technique will be applied in case of uneven class populations. Further quality analysis (confusion matrices, PR, and ROC curves) will be made for selected alorithms of interest.
+Overview: 
+This script will give a multiclass classification of a given dataset by applying cross validation to several classification and ensemble algorithms in order to compare the predicition accuracy and standard deviation of each algorithm.  The SMOTE oversampling technique will be applied in case of uneven class populations. Further quality analysis (confusion matrices, PR, and ROC curves) will be made for selected alorithms of interest.
 
 Procedure:
   1) User Input: Enter the name of the file containing all features and class labels in the order as they appear in dataset (the header of class labels will be needed in order for the script to identify the correct column).  Enter class names and a selection of colors equal to the length of classes for plot parameterization. "clf_dict" is a created dictionary of the selection of algorithms found to have the best initial prediction.

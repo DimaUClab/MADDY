@@ -1,3 +1,3 @@
-# MADDY
+# MADDY Classification Analysis
 
 Maddy

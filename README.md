@@ -3,6 +3,7 @@
 Multiclass Classification Analysis and Quality Testing of MADDY (Microtubule Assembly and Disassembly Dynamics model) Output
 
 Published by: Maria Kelly - Dima Group @ University of Cincinnati
+
 Details of applied analysis can be found in original publication: https://doi.org/10.1016/j.csbj.2022.01.028
 
 Overview: This script will give a multiclass classification of a given dataset by applying cross validation to several classification and ensemble algorithms in order to compare the predicition accuracy and standard deviation of each algorithm.  The SMOTE oversampling technique will be applied in case of uneven class populations. Further quality analysis (confusion matrices, PR, and ROC curves) will be made for selected alorithms of interest.
